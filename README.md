@@ -2,11 +2,11 @@
 Программа рассчитывает без округлений, какое точное количество каждого ингредиента пришлось на одну порцию еды.
 
 # Локация дефекта
-
+https://github.com/LaychenkovGA/javaqa/blob/094e8a80e8abbbca0f27cdbd41d5cd5c861d5de9/src/Main.java#L14
 
 # Шаги воспроизведения
 
-1. Открыть [код программы]() в IDEA.
+1. Открыть [код программы](https://github.com/LaychenkovGA/javaqa/blob/main/src/Main.java#L14) в IDEA.
 2. Выставить значение переменной `eaters` (сколько людей будут есть) в 5
 3. Выставить значение переменной `water` (миллилитров воды) в 3000
 4. Выставить значение переменной `potatoes` (картофелин) в 5
@@ -19,7 +19,7 @@
 *Фактический результат:* Вывод сообщения в консоли: "Сварили суп. На одного человека вышло : 1 куриных(ое) бёдер(ро)"
 
 # Скриншот
-![Image](https://drive.google.com/file/d/1-7BKy-rlhpNnNFYmifBy-BJf7PkKgiGK/view?usp=drive_link)
+![image](https://drive.google.com/file/d/1-7BKy-rlhpNnNFYmifBy-BJf7PkKgiGK/view?usp=drive_link)
 
 # Окружение
 * **Операционная система:** Windows 11 Pro 22631.3155
